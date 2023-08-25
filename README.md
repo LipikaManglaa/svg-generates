@@ -17,7 +17,7 @@ SSH LINK: git@github.com:LipikaManglaa/svg-generate.git
 
 # video Link 
 
-https://drive.google.com/file/d/1OjaZDTuTORxCckNg2Z0X8ZW6ZtWyyKPB/view
+https://drive.google.com/file/d/1UFTelmFX6EuS7sLZvCI4eeWcgXJrMiUr/view
 
 
 ## Table of Contents
